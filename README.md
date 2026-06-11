@@ -78,7 +78,7 @@ Developed an automated ingestion pipeline that collects, cleans, and processes j
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jason-chen-ucmerced/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/cameronxernesto)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/jasche154)
 [![Resume](https://img.shields.io/badge/Resume-View-success?style=flat&logo=readme&logoColor=white)](./Jason_Chen_Resume.pdf)
 
 
